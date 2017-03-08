@@ -19,4 +19,3 @@
 
 $(call inherit-product, vendor/zte/draconis/draconis-vendor-blobs.mk)
 
-$(call inherit-product, vendor/qcom/binaries/msm8974/graphics/graphics-vendor.mk)
