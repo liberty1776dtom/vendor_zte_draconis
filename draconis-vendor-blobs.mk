@@ -224,6 +224,13 @@ PRODUCT_COPY_FILES += \
     vendor/zte/draconis/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/zte/draconis/proprietary/vendor/lib/hw/sensors.msm8226.so:system/vendor/lib/hw/sensors.msm8226.so \
     vendor/zte/draconis/proprietary/vendor/lib/lib-imscamera.so:system/vendor/lib/lib-imscamera.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imsdpl.so:system/vendor/lib/lib-imsdpl.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imsrcs.so:system/vendor/lib/lib-imsrcs.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imss.so:system/vendor/lib/lib-imss.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imsvt.so:system/vendor/lib/lib-imsvt.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imsxml.so:system/vendor/lib/lib-imsxml.so \
+	vendor/zte/draconis/proprietary/vendor/lib/lib-imsSDP.so:system/vendor/lib/lib-imsSDP.so \
     vendor/zte/draconis/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/zte/draconis/proprietary/vendor/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
     vendor/zte/draconis/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
